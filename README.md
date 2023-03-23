@@ -28,6 +28,12 @@ I am Software Developer, Currently working as a full-time software developer
 
 
 
+### Skills
+
+<p align="left">
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="VueJs" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="VueJs" /></a>
 
 ### Socials
 
