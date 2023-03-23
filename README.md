@@ -61,6 +61,10 @@ I am Software Developer, Currently working as a full-time software developer
 <a href="https://www.instagram.com/ravi__sorathiya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
   
 <br/>
+<br/>  
+<br/>  
+<br/>  
+<br/>
 <a href="https://www.twitter.com/ravi_100rathiya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ravisorathiya?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
