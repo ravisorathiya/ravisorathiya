@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ----------------------------
 
-I am Software Developer, Currently working as a full-time software developer 
+I am Software Developer, Currently working as a full-time software developer.
 
 - 🔭 I’m currently working on android developemnt
 - 👀 I’m interested in mobile/web app development
