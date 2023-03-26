@@ -11,7 +11,7 @@ I am Software Developer, Currently working as a full-time software developer
 - 🌱 I'm learning everything JavaScript
 - 📫 How to reach me: ravisorathiya508@gmail.com
 
-### Skills
+## Skills
 
 ### Languages
 
