@@ -58,7 +58,7 @@ I am Software Developer, Currently working as a full-time software developer.
   
 <br/>
 <br/>  
-<a href="https://www.twitter.com/ravi__rathiya" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/ravi__sorathiya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ravisorathiya?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
