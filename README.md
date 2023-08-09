@@ -6,9 +6,9 @@ Developer
 
 I am Software Developer.
 
-- 🔭 I’m currently working on android developemnt
-- 👀 I’m interested in mobile/web app development
-- 🌱 I'm learning everything JavaScript
+- 🔭 I’m currently working on android development.
+- 👀 I’m interested in mobile/web app development.
+- 🌱 I'm interested in exploring web-developemnt framworks.
 - 📫 How to reach me: ravisorathiya508@gmail.com
 
 ## Skills
