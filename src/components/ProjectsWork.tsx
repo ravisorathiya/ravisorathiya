@@ -75,12 +75,9 @@ export function ProjectsWork() {
                     liveLink="https://play.google.com/store/apps/details?id=com.loan.cash.trading.smart.money/"
                     image={emi}
                     technologies={[
-                        "React",
-                        "Node.js",
-                        "Tailwind CSS",
-                        "RestAPI",
-                        "Figma",
-                        "ShadCn UI",
+                        "Android",
+                        "Kotlin",
+                        "Firebase",
                     ]}
                 />
             ),
