@@ -6,9 +6,7 @@ Profile
 
 I am Software Developer.
 
-- 🔭 I’m currently working on android development.
-- 👀 I’m interested in mobile/web app development.
-- 🌱 I'm interested in exploring web-developemnt framworks.
+- 👀 I’m mobile/web app developer.
 - 📫 How to reach me: ravisorathiya508@gmail.com
 
 ## Skills
