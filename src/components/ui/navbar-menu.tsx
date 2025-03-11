@@ -13,6 +13,12 @@ const transition = {
   restSpeed: 0.001,
 };
 
+interface MenuProps {
+  setActive: (item: string | null) => void;
+  children: React.ReactNode;
+  className?: string;
+}
+
 export const MenuItem = ({
   setActive,
   active,
@@ -60,20 +66,15 @@ export const MenuItem = ({
   );
 };
 
-export const Menu = ({
-  setActive,
-  children,
-}: {
-  setActive: (item: string | null) => void;
-  children: React.ReactNode;
-}) => {
+export const Menu = ({ setActive, children, className }: MenuProps) => {
   return (
-    <nav
-      onMouseLeave={() => setActive(null)} // resets the state
-      className="relative rounded-full border border-transparent dark:bg-black dark:border-white/[0.2] bg-white shadow-input flex justify-center space-x-4 px-8 py-6 "
-    >
-      {children}
-    </nav>
+      <nav
+          onMouseLeave={() => setActive(null)} // resets the state
+          className={`relative rounded-lg border border-transparent dark:bg-black dark:border-white/[0.2] bg-white shadow-input 
+                 flex flex-col md:flex-row justify-center md:space-x-4 space-y-4 md:space-y-0 px-6 py-4 w-full ${className}`}
+      >
+        {children}
+      </nav>
   );
 };
 
@@ -110,12 +111,20 @@ export const ProductItem = ({
 };
 
 export const HoveredLink = ({ children, ...rest }: any) => {
-  return (
-    <Link
-      {...rest}
-      className="text-neutral-700 dark:text-neutral-200 hover:text-black "
-    >
-      {children}
-    </Link>
-  );
+    return (
+        <Link
+            {...rest}
+            className="text-neutral-700 dark:text-neutral-200 hover:text-blue-600 text-lg
+                 transform transition duration-300 ease-in-out
+                 hover:scale-115 hover:-translate-y-1 hover:shadow-lg
+                 active:scale-95 rounded-md px-3 py-2
+                 hover:bg-neutral-100 dark:hover:bg-neutral-800
+                 active:bg-blue-100 dark:active:bg-blue-900
+                 hover:border hover:border-blue-400"
+        >
+            {children}
+        </Link>
+    );
 };
+
+

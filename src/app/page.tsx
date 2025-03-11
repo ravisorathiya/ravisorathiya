@@ -1,20 +1,20 @@
-import Image from "next/image";
 import {HeroSection} from "@/components/HeroSection";
 import {AboutMe} from "@/components/AboutMe";
 import {Skills} from "@/components/Skills";
 import {ProjectsWork} from "@/components/ProjectsWork";
-import {Achievement} from "@/components/Achievement";
-import {Contact} from "lucide-react";
+import {Contact} from "@/components/Contact";
+import Navbar from "@/components/Navbar";
+
 
 export default function Home() {
-     return (
-         <>
-              <HeroSection/>
-              <AboutMe/>
-              <Skills/>
-              <ProjectsWork/>
-              <Achievement/>
-              <Contact/>
-         </>
-     );
+    return (
+        <>
+            <Navbar/>
+            <HeroSection/>
+            <AboutMe/>
+            <Skills/>
+            <ProjectsWork/>
+            <Contact/>
+        </>
+    );
 }
